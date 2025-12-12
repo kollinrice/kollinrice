@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently enrolled part time as a Computer Science major at Franklin University, expecting to earn my B.S. in 2028.
 <!--
 **kollinrice/kollinrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
